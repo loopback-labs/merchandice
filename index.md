@@ -42,8 +42,6 @@ Explore our focused micro-apps built for quick, delightful experiences:
   </div>
 </div>
 
----
-
 ## Who It’s For
 
 Merchandice is built for people who value:

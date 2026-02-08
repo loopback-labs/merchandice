@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Use
 permalink: /terms-of-use/
+description: Terms of use for accessing and using the Merchandice website.
 ---
 
 # Terms of Use

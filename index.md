@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /
+description: Practical SaaS tools, micro-apps, and experiments from the Merchandice product studio.
 ---
 
 # Welcome
@@ -41,71 +42,6 @@ Explore our focused micro-apps built for quick, delightful experiences:
     <p>A simple love calculator to explore compatibility between two people, just for fun.</p>
   </div>
 </div>
-
-## Who It’s For
-
-Merchandice is built for people who value:
-
-- Speed over ceremony  
-- Simplicity over complexity  
-- Ownership over vendor lock-in  
-
-If you are:
-
-- A founder  
-- A solo builder  
-- A small team  
-- Or someone tired of duct-taping tools together  
-
-You’re in the right place.
-
----
-
-## Why Merchandice Exists
-
-Most software today is:
-
-- Over-engineered  
-- Over-marketed  
-- Under-delivering  
-
-Merchandice exists to do the opposite.
-
-I build small, focused products with:
-
-- Clear purpose  
-- Honest limitations  
-- Sustainable pricing  
-
-No hype. No dark patterns. No “coming soon” for three years.
-
----
-
-## Built by a Duopreneur
-
-Merchandice is built and run by a duopreneur—meaning:
-
-- Decisions are fast  
-- Feedback loops are short  
-- Support talks to the person who built the product  
-
-If something breaks, it gets fixed.  
-If something’s confusing, it gets simplified.
-
----
-
-## What You’ll Find Here
-
-- ✅ SaaS products  
-- ✅ Tools & utilities  
-- ✅ Experiments that survived real usage  
-- ✅ Clear docs and straight answers  
-
-What you won’t find:
-
-- ❌ Buzzword soup  
-- ❌ Artificial urgency  
-- ❌ “Enterprise-only” pricing for basic features
 
 ## Contact
 

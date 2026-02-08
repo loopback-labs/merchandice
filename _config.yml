@@ -1,8 +1,11 @@
 title: Merchandice
-description: Merchandice is a platform for creating and managing your own merchandise.
+description: Practical SaaS tools and micro-apps from the Merchandice product studio.
 theme: minima
 url: "https://merchandice.in"
-baseurl: "/"
+baseurl: ""
+lang: en
+author: Merchandice
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag

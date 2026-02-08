@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
+description: Privacy policy for Merchandice describing data collection and usage.
 ---
 
 # Privacy Policy

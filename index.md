@@ -41,7 +41,7 @@ Explore our focused micro-apps built for quick, delightful experiences:
   </div>
   <div class="card">
     <img class="card-logo" src="/assets/logos/lovecalc%20logo.webp" alt="Love Calculator logo">
-    <h3><a href="https://crush-scale.lovable.app/">Love Calculator</a></h3>
+    <h3><a href="https://lovemeter.merchandice.in/">Love Calculator</a></h3>
     <p>A simple love calculator to explore compatibility between two people, just for fun.</p>
   </div>
 </div>

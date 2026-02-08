@@ -34,4 +34,4 @@ We may update these Terms from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about these Terms, contact us at [contact@merchandice.in](mailto:contact@merchandice.in).
+If you have questions about these Terms, contact us at [contactus@merchandice.in](mailto:contactus@merchandice.in).

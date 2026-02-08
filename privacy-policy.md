@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-**Effective date:** February 8, 2026
+**Effective date:** January 1, 2026
 
 ## Overview
 
@@ -41,4 +41,4 @@ You can request access to, correction of, or deletion of your personal informati
 
 ## Contact Us
 
-If you have questions about this policy, contact us at [contact@merchandice.in](mailto:contact@merchandice.in).
+If you have questions about this policy, contact us at [contactus@merchandice.in](mailto:contactus@merchandice.in).

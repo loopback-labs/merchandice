@@ -44,6 +44,11 @@ Explore our focused micro-apps built for quick, delightful experiences:
     <h3><a href="https://lovemeter.merchandice.in/">Love Calculator</a></h3>
     <p>A simple love calculator to explore compatibility between two people, just for fun.</p>
   </div>
+  <div class="card">
+    <img class="card-logo" src="/assets/logos/wordgame%20logo.png" alt="Wordgame logo">
+    <h3><a href="https://wordgame.merchandice.in/">Wordgame</a></h3>
+    <p>A quick name, place, animal, thing game to play with friends.</p>
+  </div>
 </div>
 
 ## Contact

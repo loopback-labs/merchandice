@@ -40,7 +40,7 @@ Explore our focused micro-apps built for quick, delightful experiences:
     <p>A simple wall for collecting memories, snapshots in one place.</p>
   </div>
   <div class="card">
-    <img class="card-logo" src="/assets/logos/lovecalc%20logo.webp" alt="Love Calculator logo">
+    <img class="card-logo" src="/assets/logos/lovecalc%20logo.tiff" alt="Love Calculator logo">
     <h3><a href="https://lovemeter.merchandice.in/">Love Calculator</a></h3>
     <p>A simple love calculator to explore compatibility between two people, just for fun.</p>
   </div>

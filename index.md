@@ -51,7 +51,7 @@ Explore our focused micro-apps built for quick, delightful experiences:
   </div>
   <div class="card">
     <img class="card-logo" src="/assets/logos/househelp.png" alt="Househelp logo">
-    <h3><a href="https://househelper.lovable.app/">Househelp</a></h3>
+    <h3><a href="https://loopback-labs.github.io/househelp-page/">Househelp</a></h3>
     <p>A simple tool to organize and manage household help. Manage Attendance, Payments, and more.</p>
   </div>
 </div>
